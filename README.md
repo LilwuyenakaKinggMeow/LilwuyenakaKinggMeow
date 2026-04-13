@@ -1,8 +1,8 @@
 ## 👋 About Me | Giới thiệu
 
-🇻🇳 **VI:** Tôi là một lập trình viên người Việt kiêm IT Support, đam mê công nghệ, thiết kế và phát triển phần mềm. Tôi luôn sẵn sàng học hỏi, giải quyết vấn đề và xây dựng các dự án sáng tạo.
+🇻🇳 **VI:** Tôi là một lập trình viên người Việt kiêm IT Support
 
-🇺🇸 **EN:** I am a Vietnamese programmer and IT Support specialist, passionate about technology, design, and software development. I am always eager to learn, solve problems, and build innovative projects.
+🇺🇸 **EN:** I am a Vietnamese programmer and IT Support specialist
 
 ---
 
