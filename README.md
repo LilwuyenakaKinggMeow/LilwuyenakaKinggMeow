@@ -1,3 +1,11 @@
+## 👋 About Me | Giới thiệu
+
+🇻🇳 **VI:** Tôi là một lập trình viên người Việt kiêm IT Support, đam mê công nghệ, thiết kế và phát triển phần mềm. Tôi luôn sẵn sàng học hỏi, giải quyết vấn đề và xây dựng các dự án sáng tạo.
+
+🇺🇸 **EN:** I am a Vietnamese programmer and IT Support specialist, passionate about technology, design, and software development. I am always eager to learn, solve problems, and build innovative projects.
+
+---
+
 ## 🌐 Socials | Mạng xã hội
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/lilwuyen)
@@ -8,15 +16,7 @@
 
 ---
 
-## 👋 About Me | Giới thiệu
-
-🇻🇳 **VI:** Tôi là một lập trình viên người Việt kiêm IT Support, đam mê công nghệ, thiết kế và phát triển phần mềm. Tôi luôn sẵn sàng học hỏi, giải quyết vấn đề và xây dựng các dự án sáng tạo.
-
-🇺🇸 **EN:** I am a Vietnamese programmer and IT Support specialist, passionate about technology, design, and software development. I am always eager to learn, solve problems, and build innovative projects.
-
----
-
-## 💻 Tech Stack | Công nghệ sử dụng
+## 🛠️ Tools | Công cụ
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
@@ -32,6 +32,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ### 🎨 Design & Media | Thiết kế & Truyền thông
 
@@ -41,21 +44,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge\&logo=Adobe%20Lightroom\&logoColor=white)
 
-### 🛠️ Tools | Công cụ
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
 ### 🎮 Interests | Sở thích
 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge\&logo=riotgames\&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge\&logo=steam\&logoColor=white)
-
----
-
-## 📊 Profile Views | Lượt truy cập
-
-[![](https://komarev.com/ghpvc/?username=LilwuyenakaKinggMeow\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
