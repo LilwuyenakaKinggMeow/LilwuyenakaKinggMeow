@@ -47,6 +47,6 @@
 ### 🎮 Interests | Sở thích
 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge\&logo=riotgames\&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge\&logo=steam\&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge\&logo=steam\&logoColor=white)](https://steamcommunity.com/id/lilwuyen/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
