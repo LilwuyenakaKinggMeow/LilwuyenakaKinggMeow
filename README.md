@@ -1,11 +1,3 @@
-## 👋 About Me | Giới thiệu
-
-🇻🇳 **VI:** Tôi là một lập trình viên người Việt kiêm IT Support
-
-🇺🇸 **EN:** I am a Vietnamese programmer and IT Support specialist
-
----
-
 ## 🌐 Socials | Mạng xã hội
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/lilwuyen)
