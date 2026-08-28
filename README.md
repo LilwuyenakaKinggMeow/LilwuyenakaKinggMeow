@@ -28,7 +28,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LilwuyenakaKinggMeow)
 
-### 🎨 Design & Media | Thiết kế & Truyền thông
+### 🎨 Design & Media | Thiết kế
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge\&logo=Adobe%20After%20Effects\&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge\&logo=Adobe%20Premiere%20Pro\&logoColor=white)
